@@ -28,3 +28,4 @@ C:\Users\ozany\4870\Razor4870\obj\Debug\net8.0\refint\Razor4870.dll
 C:\Users\ozany\4870\Razor4870\obj\Debug\net8.0\Razor4870.pdb
 C:\Users\ozany\4870\Razor4870\obj\Debug\net8.0\Razor4870.genruntimeconfig.cache
 C:\Users\ozany\4870\Razor4870\obj\Debug\net8.0\ref\Razor4870.dll
+C:\Users\ozany\4870\Razor4870\obj\Debug\net8.0\Razor4870.sourcelink.json
